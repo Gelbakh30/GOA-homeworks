@@ -1,5 +1,3 @@
-num1 = input("please enter your name:  ")
-
-num2 = input("please enter your lastname:  ")
-
-print(num1 + num2)
+name = input("please, enter your name: ")
+surname = input("please, enter your surname: ")
+print("you are: " + name + " " + surname + ", right?")

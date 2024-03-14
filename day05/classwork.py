@@ -1,6 +1,6 @@
 age = input("Enter your age: ")
 name = input("enter your username: ")
-age = int(age) #converting the input string to an integer
+age = str(age) 
 name = str(name)
 print("your age is:", age)
 print("your name is:", name)
